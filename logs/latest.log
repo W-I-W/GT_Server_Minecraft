@@ -1,0 +1,17 @@
+[17:18:24] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[17:18:54] [Server thread/INFO]: Loading properties
+[17:18:54] [Server thread/INFO]: Default game type: SURVIVAL
+[17:18:54] [Server thread/INFO]: Generating keypair
+[17:18:54] [Server thread/INFO]: Starting Minecraft server on 192.168.0.131:25565
+[17:19:32] [Server thread/INFO]: Preparing level "World"
+[17:19:32] [Server thread/WARN]: Unable to find spawn biome
+[17:19:32] [Server thread/WARN]: Unable to find spawn biome
+[17:19:33] [Server thread/INFO]: Preparing start region for level 0
+[17:19:34] [Server thread/INFO]: Preparing spawn area: 8%
+[17:19:35] [Server thread/INFO]: Preparing spawn area: 31%
+[17:19:36] [Server thread/INFO]: Preparing spawn area: 59%
+[17:19:37] [Server thread/INFO]: Preparing spawn area: 91%
+[17:19:38] [Server thread/INFO]: Done (6.407s)! For help, type "help" or "?"
+[17:19:39] [Server thread/WARN]: Unable to find spawn biome
+[17:19:46] [Server thread/INFO]: Reloaded default quest database
+[17:19:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3208ms behind, skipping 64 tick(s)
