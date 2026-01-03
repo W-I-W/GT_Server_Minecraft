@@ -1,0 +1,14 @@
+[16:17:48] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[16:18:17] [Server thread/INFO]: Loading properties
+[16:18:17] [Server thread/INFO]: Default game type: SURVIVAL
+[16:18:17] [Server thread/INFO]: Generating keypair
+[16:18:17] [Server thread/INFO]: Starting Minecraft server on 192.168.0.131:25565
+[16:18:46] [Server thread/INFO]: Preparing level "World"
+[16:18:46] [Server thread/WARN]: Unable to find spawn biome
+[16:18:47] [Server thread/INFO]: Preparing start region for level 0
+[16:18:48] [Server thread/INFO]: Preparing spawn area: 18%
+[16:18:49] [Server thread/INFO]: Preparing spawn area: 39%
+[16:18:50] [Server thread/INFO]: Preparing spawn area: 63%
+[16:18:51] [Server thread/INFO]: Preparing spawn area: 85%
+[16:18:52] [Server thread/INFO]: Done (6.623s)! For help, type "help" or "?"
+[16:18:56] [Server thread/INFO]: Reloaded default quest database

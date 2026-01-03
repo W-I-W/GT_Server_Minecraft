@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LootGroup category="chest2" loading_mode="OVERRIDE" count_min="3" count_max="6">
+
+	<loot item="gregtech:gt.metaitem.01" damage="2817" weight="10" count_min="1" count_max="64"/>
+	<loot item="gregtech:gt.metaitem.01" damage="2817" weight="10" count_min="1" count_max="64"/>
+	<loot item="gregtech:gt.metaitem.01" damage="2817" weight="10" count_min="1" count_max="64"/>
+	<loot item="gregtech:gt.metaitem.01" damage="2817" weight="10" count_min="1" count_max="64"/>
+	<loot item="gregtech:gt.metaitem.01" damage="2817" weight="10" count_min="1" count_max="64"/>
+	<loot item="gregtech:gt.metaitem.01" damage="2817" weight="10" count_min="1" count_max="64"/>
+	<loot item="gregtech:gt.metaitem.01" damage="2817" weight="10" count_min="1" count_max="64"/>
+	<loot item="gregtech:gt.metaitem.01" damage="2817" weight="10" count_min="1" count_max="64"/>
+	<loot item="gregtech:gt.metaitem.01" damage="2817" weight="10" count_min="1" count_max="64"/>
+	<loot item="gregtech:gt.metaitem.01" damage="2817" weight="10" count_min="1" count_max="64"/>
+	
+</LootGroup>
